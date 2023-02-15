@@ -1,0 +1,8 @@
+prefix=/home/snow/ros_tutorial_2/devel
+
+Name: turtlesim_new
+Description: Description of turtlesim_new
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/snow/ros_tutorial/devel
+
+Name: launch_dir
+Description: Description of launch_dir
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

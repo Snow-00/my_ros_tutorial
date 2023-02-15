@@ -1,0 +1,8 @@
+prefix=/home/snow/ros_tutorial/install
+
+Name: turtlesim_move
+Description: Description of turtlesim_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

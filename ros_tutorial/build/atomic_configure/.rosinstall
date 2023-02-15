@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/snow/ros_tutorial/devel/setup.sh

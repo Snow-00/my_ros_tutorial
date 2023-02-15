@@ -1,0 +1,2 @@
+get_pose:turtlesim_new
+-DCATKIN_DEVEL_PREFIX=/home/snow/ros_tutorial_2/devel -DCMAKE_INSTALL_PREFIX=/home/snow/ros_tutorial_2/install -G Unix Makefiles
